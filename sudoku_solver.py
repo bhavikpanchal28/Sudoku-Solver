@@ -47,6 +47,7 @@ if __name__ == "__main__":
     
     #enter your puzzle here
 
+    # this is a random puzzle that was used originally
     puzzle = [
         [5, 3, 0, 0, 7, 0, 0, 0, 0],
         [6, 0, 0, 1, 9, 5, 0, 0, 0],
@@ -59,6 +60,7 @@ if __name__ == "__main__":
         [0, 0, 0, 0, 8, 0, 0, 7, 9]
     ]   
 
+    
     # puzzle2 = [
         
     #     [7, 8, 0, 4, 0, 0, 1, 2, 0],
